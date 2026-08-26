@@ -40,7 +40,9 @@ Me caracterizo por ser una persona responsable, proactiva, disciplinada y orient
 
 Mi propósito profesional: brindar soluciones eléctricas eficientes, seguras y confiables, contribuyendo al correcto funcionamiento de equipos, instalaciones y procesos.
 
-Mis expectativas con la carrera de I.A: Al estudiar Ingeniería en Inteligencia Artificial, mi principal expectativa es adquirir conocimientos y habilidades que me permitan comprender, desarrollar e implementar soluciones tecnológicas capaces de transformar diferentes sectores de la sociedad y la industria.
+¿CUAL ES MI ESPECTATIVA AL ESTUDIAR INGENERIA EN I.A?
+
+Al estudiar Ingeniería en Inteligencia Artificial, mi principal expectativa es adquirir conocimientos y habilidades que me permitan comprender, desarrollar e implementar soluciones tecnológicas capaces de transformar diferentes sectores de la sociedad y la industria.
 
 Espero fortalecer mis conocimientos en programación, análisis de datos, aprendizaje automático, automatización y desarrollo de sistemas inteligentes. También quiero aprender a utilizar la inteligencia artificial de manera responsable, ética e innovadora para resolver problemas reales y generar nuevas oportunidades.
 
