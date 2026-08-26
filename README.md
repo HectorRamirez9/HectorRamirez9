@@ -15,6 +15,7 @@ Me caracterizo por mi capacidad analítica, liderazgo, responsabilidad y orienta
 Mi propósito profesional: transformar los procesos industriales en operaciones más eficientes, productivas y sostenibles, generando valor para las empresas y sus equipos de trabajo.
 
 * Automatización industrial
+
 Soy un profesional enfocado en la automatización industrial, con pasión por la tecnología, el control de procesos y la implementación de soluciones que permitan mejorar la productividad, eficiencia y confiabilidad de las operaciones industriales.
 
 Mi perfil está orientado al desarrollo y optimización de sistemas automatizados, integrando tecnologías de control, instrumentación y supervisión para lograr procesos más seguros, precisos y eficientes.
@@ -24,6 +25,7 @@ Me caracterizo por mi capacidad para analizar procesos, identificar oportunidade
 Mi propósito profesional: impulsar la transformación de los procesos industriales mediante la automatización, la innovación tecnológica y el uso inteligente de los recursos.
 
 * Técnico electricista
+
 Soy Técnico Electricista comprometido con la ejecución, mantenimiento y optimización de instalaciones y sistemas eléctricos, trabajando con responsabilidad, precisión y enfoque en la seguridad.
 
 Mi perfil profesional está orientado al diagnóstico de fallas, mantenimiento preventivo y correctivo, instalación de sistemas eléctricos y solución de problemas técnicos, procurando siempre el cumplimiento de las normas y buenas prácticas de seguridad.
