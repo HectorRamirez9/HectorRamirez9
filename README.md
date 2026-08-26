@@ -5,6 +5,7 @@ Mi nombre es Héctor Ramírez Murcia. Soy de Neiva, Huila. Actualmente laboro en
 Mis estudios realizados:
 * Ing. Industrial
 * Especialista en procesos industriales
+
 Soy Ingeniero Industrial especializado en procesos industriales, con enfoque en la optimización, estandarización y mejora continua de las operaciones. Mi perfil profesional está orientado a identificar oportunidades de mejora, aumentar la eficiencia productiva y contribuir al cumplimiento de los objetivos estratégicos de las organizaciones.
 
 Cuento con una visión integral de los procesos, combinando análisis, planificación y gestión para desarrollar soluciones que permitan optimizar recursos, reducir costos, mejorar la productividad y garantizar estándares de calidad.
