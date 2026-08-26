@@ -6,6 +6,8 @@ Soy de Neiva, Huila.
 
 Actualmente laboro en la Corporación Universitaria del Huila (Corhuila). 
 
+Mis hobbys son, jugar futbol, hacer musica, programar sistemas ingrados arduinos y plc.
+
 Mis estudios realizados:
 * Ing. Industrial
 * Especialista en procesos industriales
@@ -45,5 +47,3 @@ Espero fortalecer mis conocimientos en programación, análisis de datos, aprend
 Mi objetivo es prepararme profesionalmente para afrontar los retos tecnológicos del futuro, participar en proyectos de innovación y contribuir al desarrollo de soluciones que mejoren los procesos, aumenten la productividad y faciliten la toma de decisiones.
 
 En definitiva, espero que esta carrera me permita crecer tanto profesional como personalmente, ampliar mis capacidades y convertirme en un profesional preparado para aprovechar el potencial de la inteligencia artificial y aportar valor a las organizaciones y a la sociedad.
-
-Mis hobbys son, jugar futbol, hacer musica, programar sistemas ingrados arduinos y plc.
