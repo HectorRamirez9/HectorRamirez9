@@ -55,3 +55,9 @@ En definitiva, espero que esta carrera me permita crecer tanto profesional como 
 | 1 | Ingeniería Industrial | Ingeniería |
 | 2 | Automatización Industrial | Automatización y Control |
 | 3 | Técnico Electricista | Electricidad |
+
+🚀 Proyección Profesional
+
+Actualmente, mi formación está orientada hacia la Ingeniería de Inteligencia Artificial, con el objetivo de desarrollar progresivamente conocimientos y habilidades en programación, automatización, análisis de datos, Machine Learning, Deep Learning y desarrollo de soluciones basadas en IA. Mi trayectoria en Ingeniería Industrial, Automatización Industrial y el área eléctrica constituye una base multidisciplinaria que pretendo complementar con las tecnologías y herramientas fundamentales de la inteligencia artificial. A futuro, busco desempeñarme en roles relacionados con la Ingeniería de IA, Machine Learning, automatización inteligente, ciencia de datos y desarrollo de soluciones tecnológicas, manteniendo un proceso constante de aprendizaje, experimentación y construcción de proyectos.
+
+💡 Analogía: Mi formación es como construir un puente: la ingeniería y la automatización representan los pilares existentes, mientras que la inteligencia artificial será la tecnología que conectaré sobre ellos para crear nuevas soluciones.
